@@ -1,6 +1,4 @@
 # dice_roller_app
-
-# dice_roller_app
 ## The above code is a Dart program that uses the Flutter framework to create a simple "Dice Roller" application. When run, the app displays a screen with a single button labeled "Roll Now" and an image of a dice. When the button is pressed, the image of the dice changes to display a random number (1-6) that simulates rolling a dice. 
 ##
 #### 1) The code imports the "dart:math" and "package:flutter/material.dart" libraries.
@@ -14,5 +12,5 @@
 #### 9) The MaterialButton widget has an onPressed function of changeDice, which when pressed, calls the changeDice() function to randomly change the value of diceNumber.
 #### 10)The Text widget at the bottom contains a message encouraging the user to roll the dice.
 
-## Here is a Demo of Rolling Dice App:
+## Here is a Demo of Rolling Dice App: https://github.com/GaneshSapkota188/dice_roller_app/issues/1#issue-1533398603
 
